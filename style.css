@@ -121,6 +121,9 @@ footer {
 }
 .junks {
 	background-image: url("./Assets\ folder/background 1).jpg");
+	background-size: cover;
+	padding: 30px;
+
 }
 .customers{
 	box-shadow: 5px 5px 6px grey,-5px -5px 6px grey;
@@ -129,4 +132,11 @@ footer {
 	padding: 50px;
 	margin: 30px;
 	column-count: 2;
+
 }
+.customers>h3 {
+	color:#F15A29;
+
+}
+
+
