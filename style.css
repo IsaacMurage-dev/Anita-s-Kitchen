@@ -138,5 +138,29 @@ footer {
 	color:#F15A29;
 
 }
+.junkstexts {
+	background-color: grey;
+	display: flex;
 
+}
+a {
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	display: block;
+	padding: 14px;
+	width: 100%;
+	font-size: 20px;
+}
+a:hover {
+   background-color:white;
+   color:#F15A29;
+   font-size: 20px;
+}
+.junksimages {
+	display: flex;
+	color:#F15A29;
+	justify-content: space-between;
+	padding-top: 100px;
+}
 
