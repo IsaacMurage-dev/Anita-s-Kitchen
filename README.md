@@ -11,5 +11,7 @@
 * Can also run on any other platform for as long as there is internet.
 ## Git hub link
 * By clicking on the following link https://github.com/IsaacMurage-softwaredeveloper/Anita-s-Kitchen, you can interact with the project.
+## Licence
+* copyright @ 2021 Moringa School.
 
 
