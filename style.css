@@ -29,7 +29,7 @@ nav ul li{
 .party {
 	background-color: #F15A29;
 	width :376px;
-	height :75px;
+	height :105px;
 
 }
 .breakfast {
@@ -43,6 +43,7 @@ nav ul li{
 	width:376px;
 	height: 150px;
 	padding: 30px;
+	opacity:0.4;
 
 }
 .dinner {
@@ -71,10 +72,12 @@ header {
 }
 .fastfoods {
 	display: flex;
-	justify-content: space-around;
 	width: 80%;
 	margin-left: 10%;
 	margin-top: 10px;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
 }
 .firsttext {
 	padding-left: 10px;
@@ -82,10 +85,12 @@ header {
 }
 .drinks {
 	display: flex;
-	justify-content: space-around;
 	width: 80%;
 	margin-right: 10%;
 	margin-bottom: 10px;
+	justify-content: center;
+	text-align:center;
+	align-items: center;
 	
 
 }
