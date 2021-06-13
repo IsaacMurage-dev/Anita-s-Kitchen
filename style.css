@@ -1,0 +1,111 @@
+.page1 {
+	background-image: url("./Assets\ folder/background 2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 80px; 
+	padding-bottom: 100px;
+}
+.Menubar {
+	display: block;
+	margin: 10px;
+	width: 10px;
+}
+
+	
+/*nav div {
+	display: flex;
+	justify-content: stretch;
+}
+nav ul li{
+	list-style: none;
+}*/
+.happy {
+	background-color: grey;
+	width:376px;
+	height:75px;
+	
+}
+.party {
+	background-color: #F15A29;
+	width :376px;
+	height :75px;
+
+}
+.breakfast {
+	background-image: url("./Assets folder/breakfast.jpg");
+	width:376px;
+	height:150px;
+}
+.lunch {
+	background-image: url("./Assets folder/lunch.jpg");
+	width:376px;
+	height: 150px;
+
+}
+.dinner {
+	background-image: url("./Assets\ folder/dinner.jpg");
+	width:376px;
+	height:150px;}
+#block{
+	display:inline-block;
+}
+
+.nav{
+	color: white;
+	text-align:center;
+	display: flex;
+}
+header {
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+.happyhour {
+	text-align: center;
+}
+.fastfoods {
+	display: flex;
+	justify-content: space-around;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 10px;
+}
+.firsttext {
+	padding-left: 10px;
+}
+.drinks {
+	display: flex;
+	justify-content: space-around;
+	width: 80%;
+	margin-right: 10%;
+	margin-bottom: 10px;
+	
+
+}
+.drinkstext {
+	padding-right: 10px;
+}
+.drinksimg {
+	box-sizing: border-box;
+	width: 150%;
+	display: inline-flex;
+}
+footer {
+	background-color:#F15A29 ;
+	text-align: center;
+	color:white;
+}
+.subscribe {
+    background-image: url("./Assets\ folder/background 3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 80px; 
+	padding-bottom: 100px;
+}
+.slogan3 {
+	text-align: center;
+	color: white;
+	font-size: 1.5pc;
+}
