@@ -139,9 +139,8 @@ footer {
 
 }
 .junkstexts {
-	background-color: grey;
-	display: flex;
-
+	margin: 10px 50px; 
+	background-color: white;
 }
 a {
 	text-decoration: none;
@@ -161,6 +160,14 @@ a:hover {
 	display: flex;
 	color:#F15A29;
 	justify-content: space-between;
-	padding-top: 100px;
+	padding-top: 50px;
+	margin-right: 150px;
+	margin-left: 150px;
+	padding-bottom: 50px;
 }
+.nav {
+	background-color: grey;
+	display: flex;
+	
 
+}
