@@ -64,3 +64,48 @@ header {
 .happyhour {
 	text-align: center;
 }
+.fastfoods {
+	display: flex;
+	justify-content: space-around;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 10px;
+}
+.firsttext {
+	padding-left: 10px;
+}
+.drinks {
+	display: flex;
+	justify-content: space-around;
+	width: 80%;
+	margin-right: 10%;
+	margin-bottom: 10px;
+	
+
+}
+.drinkstext {
+	padding-right: 10px;
+}
+.drinksimg {
+	box-sizing: border-box;
+	width: 150%;
+	display: inline-flex;
+}
+footer {
+	background-color:#F15A29 ;
+	text-align: center;
+	color:white;
+}
+.subscribe {
+    background-image: url("./Assets\ folder/background 3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 80px; 
+	padding-bottom: 100px;
+}
+.slogan3 {
+	text-align: center;
+	color: white;
+	font-size: 1.5pc;
+}
