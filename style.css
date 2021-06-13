@@ -29,24 +29,30 @@ nav ul li{
 .party {
 	background-color: #F15A29;
 	width :376px;
-	height :75px;
+	height :105px;
 
 }
 .breakfast {
 	background-image: url("./Assets folder/breakfast.jpg");
 	width:376px;
 	height:150px;
+	padding: 30px;
 }
 .lunch {
 	background-image: url("./Assets folder/lunch.jpg");
 	width:376px;
 	height: 150px;
+	padding: 30px;
+	opacity:0.4;
 
 }
 .dinner {
 	background-image: url("./Assets\ folder/dinner.jpg");
 	width:376px;
-	height:150px;}
+	height:150px;
+	padding: 30px;
+}
+	
 #block{
 	display:inline-block;
 }
@@ -66,20 +72,25 @@ header {
 }
 .fastfoods {
 	display: flex;
-	justify-content: space-around;
 	width: 80%;
 	margin-left: 10%;
 	margin-top: 10px;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
 }
 .firsttext {
 	padding-left: 10px;
+	text-align: center;
 }
 .drinks {
 	display: flex;
-	justify-content: space-around;
 	width: 80%;
 	margin-right: 10%;
 	margin-bottom: 10px;
+	justify-content: center;
+	text-align:center;
+	align-items: center;
 	
 
 }
@@ -90,6 +101,12 @@ header {
 	box-sizing: border-box;
 	width: 150%;
 	display: inline-flex;
+	border-radius: 5px;
+	border: 20px solid whitesmoke;
+	width: 50%;
+	margin: 50px;
+	box-shadow: 10px 10px 6px grey,-10px --10px 6px grey
+
 }
 footer {
 	background-color:#F15A29 ;
@@ -108,4 +125,114 @@ footer {
 	text-align: center;
 	color: white;
 	font-size: 1.5pc;
+}
+.viewgallery {
+	border: 2px solid #F15A29 ;
+	text-align: center;
+	border-radius: 10px;
+	align-items: center;
+	justify-content: center;
+}
+.junks {
+	background-image: url("./Assets\ folder/background 1).jpg");
+	background-size: cover;
+	padding: 30px;
+
+}
+.customers{
+	box-shadow: 5px 5px 6px grey,-5px -5px 6px grey;
+    border: 15px solid whitesmoke;
+	border-radius: 2px;
+	padding: 50px;
+	margin: 30px;
+	column-count: 2;
+
+}
+.customers>h3 {
+	color:#F15A29;
+
+}
+.junkstexts {
+	margin: 10px 50px; 
+	background-color: white;
+}
+a {
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	display: block;
+	padding: 14px;
+	width: 100%;
+	font-size: 20px;
+}
+a:hover {
+   background-color:white;
+   color:#F15A29;
+   font-size: 20px;
+}
+.junksimages {
+	display: flex;
+	color:#F15A29;
+	justify-content: space-between;
+	padding-top: 50px;
+	margin-right: 150px;
+	margin-left: 150px;
+	padding-bottom: 50px;
+}
+.nav {
+	background-color: grey;
+
+	
+	
+
+}
+.email {
+	margin: 50px;
+	background-color:gray;
+	opacity: 0.4;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 400px;
+}
+.subscribebutton {
+	margin: 50px;
+	background-color:#F15A29;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 800px;
+	margin-top: -90px;
+
+
+}
+footer {
+	padding: 20px;
+
+}
+.mealsimg {
+	box-sizing: border-box;
+	width: 150%;
+    border-radius: 5px;
+	border: 20px solid whitesmoke;
+	width: 50%;
+	margin: 50px;
+	box-shadow: 10px 10px 6px grey,-10px --10px 6px grey
+}
+.meals {
+	width: 80%;
+}
+#button1 {
+    background-color: white;
+    border:2px solid #F25D2A;
+    padding: 6px;
+    border-radius: 8px;
+    font-size: 24px;
+    color: #F25D2A;
 }
