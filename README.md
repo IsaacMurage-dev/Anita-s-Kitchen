@@ -1,10 +1,10 @@
 # This author of this project is:
-# ISAAC MURAGE
+# Isaac Murage
 ## The name of this project is:
 # Anita's Kitchen
 ## Project description
 
-* This is a project that entails creation of a sample kitchen website by use of html and css.
+* This is a shool assignment project that entails creation of a sample kitchen website by use of html and css.
 * The kitchen contains the menu,food images and how to access the meals.
 ## Program instruction
 * This project runs smoothly via chrome search engine for as long as there is internet connectivity.
