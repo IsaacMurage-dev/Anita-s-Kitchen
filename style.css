@@ -90,6 +90,12 @@ header {
 	box-sizing: border-box;
 	width: 150%;
 	display: inline-flex;
+	border-radius: 5px;
+	border: 20px solid whitesmoke;
+	width: 50%;
+	margin: 50px;
+	box-shadow: 10px 10px 6px grey,-10px --10px 6px grey
+
 }
 footer {
 	background-color:#F15A29 ;
@@ -200,4 +206,13 @@ a:hover {
 footer {
 	padding: 20px;
 
+}
+.mealsimg {
+	box-sizing: border-box;
+	width: 150%;
+    border-radius: 5px;
+	border: 20px solid whitesmoke;
+	width: 50%;
+	margin: 50px;
+	box-shadow: 10px 10px 6px grey,-10px --10px 6px grey
 }
