@@ -119,6 +119,14 @@ footer {
 	display: flex;
 	justify-content: center;
 }
-.customers {
-
+.junks {
+	background-image: url("./Assets\ folder/background 1).jpg");
+}
+.customers{
+	box-shadow: 5px 5px 6px grey,-5px -5px 6px grey;
+    border: 15px solid whitesmoke;
+	border-radius: 2px;
+	padding: 50px;
+	margin: 30px;
+	column-count: 2;
 }
